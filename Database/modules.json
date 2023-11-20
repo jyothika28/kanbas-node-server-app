@@ -1,0 +1,184 @@
+[
+  {
+    "_id": "M101",
+    "name": "Introduction to Rocket Propulsion",
+    "description": "Basic principles of rocket propulsion and rocket engines.",
+    "course": "RS101"
+  },
+  {
+    "_id": "M102",
+    "name": "Fuel and Combustion",
+    "description": "Understanding rocket fuel, combustion processes, and efficiency.",
+    "course": "RS101"
+  },
+  {
+    "_id": "M103",
+    "name": "Nozzle Design",
+    "description": "Principles of rocket nozzle design and performance optimization.",
+    "course": "RS101"
+  },
+  {
+    "_id": "M201",
+    "name": "Fundamentals of Aerodynamics",
+    "description": "Basic aerodynamic concepts and fluid dynamics principles.",
+    "course": "RS102"
+  },
+  {
+    "_id": "M202",
+    "name": "Subsonic and Supersonic Flow",
+    "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+    "course": "RS102"
+  },
+  {
+    "_id": "M203",
+    "name": "Aerodynamic Heating",
+    "description": "Study of aerodynamic heating and thermal protection systems.",
+    "course": "RS102"
+  },
+  {
+    "_id": "M301",
+    "name": "Spacecraft Structural Design",
+    "description": "Fundamentals of designing spacecraft structures and materials selection.",
+    "course": "RS103"
+  },
+  {
+    "_id": "M302",
+    "name": "Orbital Mechanics",
+    "description": "Understanding orbital dynamics and mission planning.",
+    "course": "RS103"
+  },
+  {
+    "_id": "M303",
+    "name": "Spacecraft Systems Engineering",
+    "description": "Overview of spacecraft systems and subsystems engineering.",
+    "course": "RS103"
+  },
+  {
+  
+      "_id": "M401",
+      "name": "Module 1",
+      "description": "Description of module 1.",
+      "course": "RS4550"
+    
+  },
+  {
+    "_id": "M402",
+    "name": "Module 2",
+    "description": "Description of module 2.",
+    "course": "RS4550"
+  },
+  {
+  
+    "_id": "M403",
+    "name": "Module 1",
+    "description": "Description of module 1.",
+    "course": "RS4560"
+  
+},
+{
+  
+  "_id": "M404",
+  "name": "Module 1",
+  "description": "Description of module 1.",
+  "course": "RS4570"
+
+},
+{
+  
+  "_id": "M405",
+  "name": "Module 1",
+  "description": "Description of module 1.",
+  "course": "CH1230"
+
+},
+{
+  
+  "_id": "M405",
+  "name": "Module 1",
+  "description": "Description of module 1.",
+  "course": "CH1240"
+
+},
+{
+  
+  "_id": "M406",
+  "name": "Module 1- Physical Chemistry",
+  "description": "Description of module 1.",
+  "course": "CH1250"
+
+},
+{
+  
+  "_id": "M407",
+  "name": "Module 1- Principles of Democratic Government",
+  "description": "Description of module 1.",
+  "course": "EDU201"
+
+},
+{
+  
+  "_id": "M408",
+  "name": "Module 1- history",
+  "description": "Description of module 1.",
+  "course": "HIS301"
+
+},
+{
+  
+  "_id": "M409",
+  "name": "Module 1- Innovations in Technology",
+  "description": "Description of module 1.",
+  "course": "EDU303"
+
+},
+{
+  
+  "_id": "M410",
+  "name": "Module 1- Theology",
+  "description": "Description of module 1.",
+  "course": "THEO101"
+
+},
+
+{
+  
+  "_id": "M411",
+  "name": "Module 1- Early Christian History",
+  "description": "Description of module 1.",
+  "course": "HIS201"
+
+},
+{
+  
+  "_id": "M412",
+  "name": "Module 1- Ministry of Jesus",
+  "description": "Description of module 1.",
+  "course": "MIN301"
+
+},
+{
+  
+  "_id": "M412",
+  "name": "Module 1- Islamic History",
+  "description": "Description of module 1.",
+  "course": "ISL301"
+
+},
+{
+  
+  "_id": "M412",
+  "name": "Module 1- Islamic Ethical Thought",
+  "description": "Description of module 1.",
+  "course": "ISL202"
+
+},
+{
+  
+  "_id": "M412",
+  "name": "Module 1- Islamic Ethical Excorsism",
+  "description": "Description of module 1.",
+  "course": "ISL403"
+
+}
+
+]
