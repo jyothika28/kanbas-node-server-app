@@ -36,7 +36,7 @@ const Lab5 = (app) => {
     res.json(todos);
   });
 
-      app.delete("/a5/todos/:id", (req, res) => {
+  app.delete("/a5/todos/:id", (req, res) => {
         const { id } = req.params;
         const todo = todos.find((t) => t.id === parseInt(id));
         if (!todo) {
