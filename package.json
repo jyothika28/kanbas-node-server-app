@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/jyothika28/kanbas-node-server-app.git"
   },
+  "engines": {
+      "node": ">=18.18.0 <19.0.0"
+  },
   "keywords": [
     "Node",
     "REST",
