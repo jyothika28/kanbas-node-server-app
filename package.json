@@ -13,7 +13,7 @@
     "url": "git+https://github.com/jyothika28/kanbas-node-server-app.git"
   },
   "engines": {
-      "node": ">=18.18.0 <19.0.0"
+    "node": ">=18.18.0 <19.0.0"
   },
   "keywords": [
     "Node",
@@ -31,6 +31,8 @@
     "axios": "^1.6.1",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^8.0.2"
   }
 }
